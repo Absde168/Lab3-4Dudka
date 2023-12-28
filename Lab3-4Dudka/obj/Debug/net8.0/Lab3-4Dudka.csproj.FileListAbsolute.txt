@@ -1,0 +1,14 @@
+C:\Users\Дом\RiderProjects\Lab3-4Dudka\Lab3-4Dudka\bin\Debug\net8.0\Lab3-4Dudka.exe
+C:\Users\Дом\RiderProjects\Lab3-4Dudka\Lab3-4Dudka\bin\Debug\net8.0\Lab3-4Dudka.deps.json
+C:\Users\Дом\RiderProjects\Lab3-4Dudka\Lab3-4Dudka\bin\Debug\net8.0\Lab3-4Dudka.runtimeconfig.json
+C:\Users\Дом\RiderProjects\Lab3-4Dudka\Lab3-4Dudka\bin\Debug\net8.0\Lab3-4Dudka.dll
+C:\Users\Дом\RiderProjects\Lab3-4Dudka\Lab3-4Dudka\bin\Debug\net8.0\Lab3-4Dudka.pdb
+C:\Users\Дом\RiderProjects\Lab3-4Dudka\Lab3-4Dudka\obj\Debug\net8.0\Lab3-4Dudka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дом\RiderProjects\Lab3-4Dudka\Lab3-4Dudka\obj\Debug\net8.0\Lab3-4Dudka.AssemblyInfoInputs.cache
+C:\Users\Дом\RiderProjects\Lab3-4Dudka\Lab3-4Dudka\obj\Debug\net8.0\Lab3-4Dudka.AssemblyInfo.cs
+C:\Users\Дом\RiderProjects\Lab3-4Dudka\Lab3-4Dudka\obj\Debug\net8.0\Lab3-4Dudka.csproj.CoreCompileInputs.cache
+C:\Users\Дом\RiderProjects\Lab3-4Dudka\Lab3-4Dudka\obj\Debug\net8.0\Lab3-4Dudka.dll
+C:\Users\Дом\RiderProjects\Lab3-4Dudka\Lab3-4Dudka\obj\Debug\net8.0\refint\Lab3-4Dudka.dll
+C:\Users\Дом\RiderProjects\Lab3-4Dudka\Lab3-4Dudka\obj\Debug\net8.0\Lab3-4Dudka.pdb
+C:\Users\Дом\RiderProjects\Lab3-4Dudka\Lab3-4Dudka\obj\Debug\net8.0\Lab3-4Dudka.genruntimeconfig.cache
+C:\Users\Дом\RiderProjects\Lab3-4Dudka\Lab3-4Dudka\obj\Debug\net8.0\ref\Lab3-4Dudka.dll
